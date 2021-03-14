@@ -1,0 +1,5 @@
+data_save_loc: '/content/drive/MyDrive/model-checkpoints/data-{}.pkl'
+data_beauty: './PGPR/data/Amazon_Beauty'
+data_cellphone: './PGPR/data/Amazon_Cellphones'
+data_select: 'beauty'
+tmp_dir: './tmp'

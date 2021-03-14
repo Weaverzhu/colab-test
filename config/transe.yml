@@ -1,0 +1,2 @@
+model_save_loc: '/content/drive/MyDrive/model-checkpoints'
+name_format: 'transe-{}.pkl'
