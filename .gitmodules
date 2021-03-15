@@ -3,4 +3,4 @@
 	url = https://weaverzhu.top/Weaverzhu/train_save.git
 [submodule "PGPR"]
 	path = PGPR
-	url = https://github.com/orcax/PGPR.git
+	url = https://github.com/Weaverzhu/PGPR.git
