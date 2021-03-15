@@ -1,0 +1,6 @@
+#!/bin/bash
+cd PGPR
+python3 -m pip install -r < requirements.txt
+cd ..
+python3 -m PGPR.preprocess --dataset cell
+python3 -m PGPR.train_transe_model --dataset cell
