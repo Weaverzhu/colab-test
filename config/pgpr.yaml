@@ -1,4 +1,4 @@
-use_drive: true
+use_drive: false
 tmp_dir: '/content/drive/MyDrive/archive/ECNU-thesis/'
 dataset_dir: ''
 dataset: 'cell'
