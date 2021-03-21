@@ -1,0 +1,5 @@
+use_drive: true
+tmp_dir: '/content/drive/MyDrive/archive/ECNU-thesis/'
+dataset_dir: ''
+dataset: 'cell'
+  

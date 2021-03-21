@@ -1,0 +1,1 @@
+[INFO]  Namespace(act_dropout=0.5, batch_size=32, dataset='cell', device=device(type='cuda'), ent_weight=0.001, epochs=50, gamma=0.99, gpu='0', hidden=[512, 256], log_dir='./tmp/Amazon_Cellphones/train_agent', lr=0.0001, max_acts=250, max_path_len=3, name='train_agent', seed=123, state_history=1)
