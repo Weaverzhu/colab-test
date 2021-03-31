@@ -1,6 +1,0 @@
-[submodule "train_save"]
-	path = train_save
-	url = https://weaverzhu.top/Weaverzhu/train_save.git
-[submodule "PGPR"]
-	path = PGPR
-	url = https://weaverzhu.top/Weaverzhu/PGPR.git
